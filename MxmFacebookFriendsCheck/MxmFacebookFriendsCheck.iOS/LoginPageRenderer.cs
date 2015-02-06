@@ -4,7 +4,6 @@ using MxmFacebookFriendsCheck.iOS;
 using MxmFacebookFriendsCheck;
 using Xamarin.Forms.Platform.iOS;
 using Xamarin.Auth;
-using MonoTouch.Dialog;
 
 [assembly: ExportRenderer(typeof(LoginPage), typeof(LoginPageRenderer))]
 
@@ -67,6 +66,8 @@ namespace MxmFacebookFriendsCheck.iOS
 							// BarBackgroundColor = Color.Red,
 							// BarTextColor = Color.Black
 						};
+
+                        HttpClient hc = new HttpClient();
 
 						/*
 						HttpClient hc = new HttpClient();
