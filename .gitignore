@@ -1,0 +1,5 @@
+*.suo
+MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.Droid/bin/
+MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.Droid/obj/
+MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.iOS/obj/
+MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.WinPhone/obj/
