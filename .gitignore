@@ -6,3 +6,4 @@ MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.WinPhone/obj/
 *.userprefs
 MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.iOS/bin/
 MxmFacebookFriendsCheck/MxmFacebookFriendsCheck.WinPhone/Bin/
+server_redirect_uri/node_modules/

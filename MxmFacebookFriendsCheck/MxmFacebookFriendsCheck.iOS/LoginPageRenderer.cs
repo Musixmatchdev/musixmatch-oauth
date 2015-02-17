@@ -67,7 +67,6 @@ namespace MxmFacebookFriendsCheck.iOS
 							// BarTextColor = Color.Black
 						};
 
-                        HttpClient hc = new HttpClient();
 
 						/*
 						HttpClient hc = new HttpClient();
